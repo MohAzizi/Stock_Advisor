@@ -1,0 +1,15 @@
+{
+  "name": "Scrim-s0tm17e9mu",
+  "description": "https://v2.scrimba.com/s0tm17e9mu",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "openai": "4.52.7",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
